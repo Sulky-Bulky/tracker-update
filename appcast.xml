@@ -6,9 +6,9 @@
             <title>1.0</title>
             <pubDate>Tue, 28 Apr 2026 19:16:33 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://sulky-bulky.github.io/tracker-update/KeyStats_V1.1.zip" length="4201567" type="application/octet-stream" sparkle:edSignature="r6uVg74hXfrbaHeWTUTFJWaMGggrBx5OLst3m92tnU1ESyFPAIMIpvcx84s3ifjqhswNanFB9UtITj5orgBgAw=="/>
+            <enclosure url="https://sulky-bulky.github.io/tracker-update/KeyStats_V1.2.zip" length="4201581" type="application/octet-stream" sparkle:edSignature="FW0scPp4sR/uJnY0txNAVPbTxXzswJddu8c36BiyeGnptAeW1XXXbxJG7+i588jci4mzw30cFRLGdLswUvLzBQ=="/>
         </item>
     </channel>
 </rss>
