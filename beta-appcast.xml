@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>KeyStats</title>
+        <item>
+            <title>2b1</title>
+            <pubDate>Sun, 10 May 2026 09:38:12 -0400</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>2b1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://sulky-bulky.github.io/tracker-update/Releases/KeyStats_V2B1.zip" length="4209236" type="application/octet-stream" sparkle:edSignature="WmqjAHi5UdW9NL4ueOLVtruNdnZt60HXExyDniAClAj48MyJCoSOtxllupv1m3mNjJzM1u3e91uVttfMS/RLCw=="/>
+        </item>
+    </channel>
+</rss>
